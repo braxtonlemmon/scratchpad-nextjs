@@ -1,0 +1,7 @@
+.gitignore
+README.md
+public/
+.prettierignore
+*.ico
+**/*.png
+.eslintignore
